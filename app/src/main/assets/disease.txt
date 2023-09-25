@@ -1,0 +1,8 @@
+Model: model_a
+각막궤양
+
+Model: model_b
+각막부골편
+
+Model: model_c
+결막염
